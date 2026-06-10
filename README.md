@@ -34,3 +34,7 @@ A mobile application built with Flutter that displays character information from
 1. Clone the repository.
 2. Run `flutter pub get`.
 3. Run the app on an emulator or physical device.
+
+
+https://github.com/user-attachments/assets/dfcbded1-4ff0-4c35-b3a2-284cc31cd0e5
+
